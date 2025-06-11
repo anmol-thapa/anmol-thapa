@@ -4,7 +4,7 @@ I’m a second-year Computer Science student at the University of Virginia. I'm 
 
 Currently, I’m developing [**Appetite Intelligence**](https://github.com/anmol-thapa/appetite-intelligence) — a Flutter-based calorie tracking app that leverages AI to help users make smarter dietary decisions.
 
-🌐 **[Portfolio Website → anmolthapa.dev](https://anmolthapa.dev)**
+🌐 **[anmolthapa.dev](https://anmolthapa.dev)**
 
 ---
 
